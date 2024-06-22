@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Jin Ifrit",
+        "description": "Selalu mengajak untuk melakukan kemaksiatan",
+        "image": "https://www.iskconbangalore.org/little-krishna/wp-content/themes/onetone/images/putana.png"
+    },
+    {
+        "id": 2,
+        "name": "Kerbau",
+        "description": "Hanya kerbau biasa, tidak bisa untuk qurban",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEzJEyq9FQTnOC0LG3CKifVygYBliJpNaSQ&s"
+    },
+    {
+        "id": 3,
+        "name": "Naga sari",
+        "description": "Bisa membuat kenyang",
+        "image": "https://nibble-images.b-cdn.net/nibble/original_images/resep_nagasari_04_27fec555c1.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "macan",
+        "description": " penuh energi, berani, dan sangat percaya diri padahal jelek",
+        "image": "https://cdn0-production-images-kly.akamaized.net/bIUydg45cHR87IDPVXf4UR3rL84=/500x500/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4141868/original/072945800_1661926935-6.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Dinosaurus",
+        "description": "menjadi permainan sesaat",
+        "image": "https://e7.pngegg.com/pngimages/677/284/png-clipart-tyrannosaurus-google-chrome-t-rex-runner-dinosaur-dinosaur-game-angle.png"
+    },
+    {
+        "id": 6,
+        "name": "Banteng",
+        "description": "Suka menyerang, nepotisme",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSywm5rY7cOzLZKD318bOipRuZ4HYDnGw5eZQ&s"
+    },
+    {
+        "id": 7,
+        "name": "Dora",
+        "description": "Banyak tanya",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5RIpAI7yuYh75JE8qnaAn8I-JP-OaiK5zVw&s"
+    },
+    {
+        "id": 8,
+        "name": "Monyet",
+        "description": "Licik dan serakah",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRED3v_GzFGKqbMPA14nEn7nfUXDihw7ZKAjQ&s"
+    },
+    {
+        "id": 9,
+        "name": "Power Rangers",
+        "description": "humoris dan sarkas",
+        "image": "https://images-cdn.ubuy.co.id/64e1484ef4320b4e65650951-power-rangers-legacy-mghty-morphin.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Boboiboy",
+        "description": "Penguasa Galaxy",
+        "image": "https://i.pinimg.com/236x/e3/d8/2b/e3d82b1dedbc3cf85d6259755008255c.jpg"
+    }
+]
